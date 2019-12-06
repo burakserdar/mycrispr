@@ -1,2 +1,0 @@
-# mycrispr
-CRISPR Order
